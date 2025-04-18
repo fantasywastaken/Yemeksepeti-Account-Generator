@@ -1,4 +1,4 @@
-# 🍽️ Yemeksepeti Account Creator
+# 🍽️ Yemeksepeti Account Generator
 
 <img src="https://i.imgur.com/oEeYrvA.png">
 
